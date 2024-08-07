@@ -153,7 +153,6 @@ class UrbanRoutesPage:
         return self.driver.find_element(*self.find_taxi_button).text
 
 
-
 class TestUrbanRoutes:
 
     driver = None
