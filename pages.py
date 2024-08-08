@@ -1,6 +1,5 @@
 from selenium.webdriver.common.by import By
 
-
 class UrbanRoutesPage:
     #  Configurar dirección
     from_field = (By.ID, 'from')
