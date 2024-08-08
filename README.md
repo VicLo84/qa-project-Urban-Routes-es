@@ -19,4 +19,3 @@ Desarrollo de pruebas automatizadas para el proceso de pedir un taxi en Urban Ro
 - Previamente debe estar instalado Chrome WebDriver para su versión de navegador.
 - Asegúrate de colocar la liga de la URL correcta en el archivo "data.py" antes de iniciar las pruebas.
 - Es necesario tener instalados los paquetes pytest y selenium para ejecutar las pruebas necesarias.
-- 
